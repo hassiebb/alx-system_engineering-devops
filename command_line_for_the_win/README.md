@@ -4,4 +4,4 @@ This repository contains screenshots of the first 27 tasks of the **Command Line
 
 ---
 
-**Author: Mohammad hassieb** [hassiebb]([github.com/hassiebb](https://github.com/hassiebb)https://github.com/hassiebb)
+**Author: Mohammad hassieb** [hassiebb](https://github.com/hassiebb)
